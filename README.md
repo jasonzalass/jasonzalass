@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasonzalass.
 - 👀 I’m interested in computers, aircraft and cars.
-- 🌱 I’m currently learning Electrical Engineering at Concordia University. I am a senior member of Concordia Formula Racing, where I design PCBs for a Formula SAE Electric race car.
+- 🌱 I’m currently studying Electrical Engineering at Concordia University. I am a senior member of Concordia Formula Racing, where I design PCBs for a Formula SAE Electric race car.
 - 💞️ I’m looking to collaborate on projects involving aircraft avionics systems and automotive electrical systems.
 - 📫 How to reach me: https://www.linkedin.com/in/jasonzalass/.
 
